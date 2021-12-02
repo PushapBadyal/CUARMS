@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778233758192",
+    "project_id": "cuarms-1038",
+    "storage_bucket": "cuarms-1038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778233758192:android:87a86dd6b5470f77c35d35",
+        "android_client_info": {
+          "package_name": "com.example.cuarms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778233758192-4eeb27tj5q7q8pkoeem89dfnfdgaqb1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cuarms",
+            "certificate_hash": "0a8273aee077946c87d7afb3c0815d6846ea3ee8"
+          }
+        },
+        {
+          "client_id": "778233758192-i5r60b6h2ulsl0i9v6s4tt575c7lh9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZm6tgCbeNdUMCzFjxvx0AJ021C5rT2nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778233758192-i5r60b6h2ulsl0i9v6s4tt575c7lh9j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
